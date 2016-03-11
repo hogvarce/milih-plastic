@@ -1,6 +1,6 @@
 .idea
 
 /vendor
-/uploads
+/uploads/*.*
 
 Thumbs.db
